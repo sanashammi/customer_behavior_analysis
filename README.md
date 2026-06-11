@@ -212,7 +212,7 @@ Open the notebook and execute all cells.
 
 **Sana S**
 
-B.Tech Computer Science & Business Systems Student
+B.Tech Computer Science Student
 
 Passionate about Data Analytics, Business Intelligence, SQL, Python, and Power BI.
 
